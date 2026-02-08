@@ -1,0 +1,74 @@
+{
+  "Chapter 1": [
+    "rollTutorial",
+    "turnTutorial",
+    "jumpTutorial",
+    "gemTutorial",
+    "gravityTutorial",
+    "superjumpTutorial",
+    "superspeedTutorial",
+    "tutorialIce",
+    "tutorialFinal"
+  ],
+  "Chapter 2": [
+    "duality",
+    "transit",
+    "greatWall",
+    "bumperTutorial",
+    "otgw",
+    "wavepool",
+    "bigeasy",
+    "archipelago",
+    "3divide",
+    "threadNeedle"
+  ],
+  "Chapter 3": [
+    "sugarRush",
+    "elevatoraction",
+    "speedball",
+    "icyascent",
+    "rivervantage",
+    "offkilter",
+    "4stairs",
+    "tubular",
+    "timecapsule",
+    "cogValley"
+  ],
+  "Chapter 4": [
+    "bumperinvasion",
+    "braid",
+    "sunspire",
+    "epoch",
+    "retro",
+    "gearheart",
+    "Acrophobia",
+    "direstraits",
+    "exmachina",
+    "diamond"
+  ],
+  "Chapter 5": [
+    "newtonscradle",
+    "archiarchy",
+    "stayinalive",
+    "gordian",
+    "crystalmatrix",
+    "contraption",
+    "uphill",
+    "flippity",
+    "vertigo",
+    "warpcore",
+    "pitofdespair"
+  ],
+  "Chapter 6": [
+    "dangerzone",
+    "platinumplayground",
+    "radius",
+    "headintheclouds",
+    "centripitalforce",
+    "escalation",
+    "confluence",
+    "olympus",
+    "tangle",
+    "stratosphere"
+  ]
+}

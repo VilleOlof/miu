@@ -1,0 +1,21 @@
+[package]
+name = "miu"
+description = "Data values commonly used in the game Marble It Up! & it's Ultra version."
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+authors = ["VilleOlof"]
+readme = "readme.md"
+repository = "https://github.com/VilleOlof/miu"
+homepage = "https://github.com/VilleOlof/miu"
+keywords = ["marbleitup", "game", "data"]
+
+[dependencies]
+serde = { version = "^1", features = ["derive"] }
+serde_with = "3.4.0"
+serde_json = "^1.0"
+chrono = { version = "^0.4", features = ["serde"] }
+thiserror = "2"
+
+[dev-dependencies]
+rand = "0.8.5"
