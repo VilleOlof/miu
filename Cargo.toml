@@ -1,7 +1,7 @@
 [package]
 name = "miu"
 description = "Data values commonly used in the game Marble It Up! & it's Ultra version."
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 license = "MIT"
 authors = ["VilleOlof"]

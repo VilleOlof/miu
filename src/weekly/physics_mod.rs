@@ -152,9 +152,9 @@ pub enum PhysicsMod {
     MPSpawnOffset(bool),
 }
 
-impl PhysicsMod {
+impl ToString for PhysicsMod {
     /// Maps the [`PhysicsMod`] to a `Effect: 0%` or `Description` depending on the data within.  
-    pub fn to_string(&self) -> String {
+    fn to_string(&self) -> String {
         fn float_to_perct(f: &f32) -> String {
             format!("{}%", f * 100.0)
         }

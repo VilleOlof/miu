@@ -6,11 +6,12 @@ pub(crate) mod scorebucket;
 pub use challenge::{Challenge, ChallengeLevel};
 pub use name_lang::NameLang;
 pub use physics_mod::PhysicsMod;
+pub use scorebucket::ScoreBucket;
 
 use chrono::{DateTime, Utc};
 use serde::{Deserialize, Serialize};
 
-use crate::{MIUError, parse::Results, scorebucket::ScoreBucket};
+use crate::{MIUError, parse::Results};
 
 /// An entire weekly challenge
 #[derive(Serialize, Deserialize, Debug, Clone)]
